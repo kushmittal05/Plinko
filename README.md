@@ -1,2 +1,1 @@
-# Plinko
-Play Plinko 
+Plinko
